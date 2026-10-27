@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"studentapp/logger"
-	"studentapp/student"
-	"studentapp/utils"
+	"github.com/beibrs1/studentappp/logger"
+	"github.com/beibrs1/studentappp/student"
+	"github.com/beibrs1/studentappp/utils"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module studentapp
+module github.com/beibrs1/studentappp
 
 go 1.22
 
